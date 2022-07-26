@@ -97,7 +97,7 @@
     "node-sass": "7.0.1",
     "postcss": "8.4.14",
     "react-test-renderer": "18.2.0",
-    "rollup": "2.77.0",
+    "rollup": "2.77.1",
     "rollup-plugin-filesize": "9.1.2",
     "rollup-plugin-postcss": "4.0.2",
     "sass": "1.54.0",
