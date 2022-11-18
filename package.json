@@ -82,7 +82,7 @@
     "codecov": "3.8.3",
     "css-loader": "6.7.1",
     "enzyme": "3.11.0",
-    "enzyme-adapter-react-16": "1.15.6",
+    "enzyme-adapter-react-16": "1.15.7",
     "es-check": "7.0.1",
     "eslint": "8.23.0",
     "eslint-config-airbnb": "19.0.4",
