@@ -14,6 +14,39 @@ lang (string, optional) - ISO language code
 dir (string, optional) - Either 'ltr' or 'rtl'. 'ltr' is the default
 ```
 
+```
+Elements/
+
+-- Block
+
+-- Fonts
+
+-- Head
+
+-- HeadStyles
+
+-- Header
+
+-- LogoImage
+
+-- LogoLayout
+
+-- PreviewText
+
+-- Sponsor
+
+-- Title
+
+Template/
+
+-- BodyExample
+-- GoogleExample.js
+
+-- TemplateExample.jsx
+
+-- TemplateLayout.jsx
+```
+
 - https://speakerdeck.com/vjeux/react-css-in-js
 
 - https://stackoverflow.com/questions/37337289/react-js-set-innerhtml-vs-dangerouslysetinnerhtml
